@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Marsen.NetCore.DDD.Domain</RootNamespace>
+    <AssemblyName>Marsen.NetCore.DDD.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
